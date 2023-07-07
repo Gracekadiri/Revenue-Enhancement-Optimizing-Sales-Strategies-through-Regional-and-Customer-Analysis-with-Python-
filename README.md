@@ -7,7 +7,7 @@ This analysis aims to examine sales patterns and customer segments in various re
 
 ## Ask
 -	Which regions have the highest sales?
-2.	Which regions have the lowest sales?
+-	Which regions have the lowest sales?
 3.	Which product category had the highest sales across all regions?
 4.	How do monthly sales patterns of products vary throughout the year?
 5.	How is the sales distribution among different customer segments?
