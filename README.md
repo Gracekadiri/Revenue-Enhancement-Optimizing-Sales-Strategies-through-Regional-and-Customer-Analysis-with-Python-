@@ -14,6 +14,10 @@ This analysis aims to examine sales patterns and customer segments in various re
 6.	What is the distribution of order priorities and their corresponding sales percentages?
 7.	Which shipping mode is mostly used and what percentage of total sales does it account for?
 
+## Dashboard
+![Screenshot 2023-07-07 114058](https://github.com/Kadiis/Sales-Analysis/assets/106782819/c3a44f2b-67f4-41c7-b32b-2ff1f80683f1)
+
+
 ## Findings
 1)	Europe and Asia Pacific had the highest sales per region with total sales of $2,728,601 and $2,533,843 respectively.
 2)	Africa had the lowest sales per region with a total sale of $652,922.
