@@ -8,27 +8,27 @@ This analysis aims to examine sales patterns and customer segments in various re
 ## Ask
 -	Which regions have the highest sales?
 -	Which regions have the lowest sales?
-3.	Which product category had the highest sales across all regions?
-4.	How do monthly sales patterns of products vary throughout the year?
-5.	How is the sales distribution among different customer segments?
-6.	What is the distribution of order priorities and their corresponding sales percentages?
-7.	Which shipping mode is mostly used and what percentage of total sales does it account for?
+-	Which product category had the highest sales across all regions?
+-	How do monthly sales patterns of products vary throughout the year?
+-	How is the sales distribution among different customer segments?
+-	What is the distribution of order priorities and their corresponding sales percentages?
+-	Which shipping mode is mostly used and what percentage of total sales does it account for?
 
 ## Dashboard
 ![Screenshot 2023-07-07 114058](https://github.com/Kadiis/Sales-Analysis/assets/106782819/c3a44f2b-67f4-41c7-b32b-2ff1f80683f1)
 
 
 ## Findings
-1)	Europe and Asia Pacific had the highest sales per region with total sales of $2,728,601 and $2,533,843 respectively.
-2)	Africa had the lowest sales per region with a total sale of $652,922.
-3)	Technology products have the highest sales in all regions except LATAM, where Furniture has the highest sales.	
-4)	The months of March and April consistently showed higher sales across all three categories throughout the years.
-5)	The Consumer segment consistently generated the highest sales across all three years, followed by the corporate segment, and then the home Office segment.
-6)	Most orders have medium priority, which accounts for 58% of total sales.
-7)	The most used shipping mode is Standard Class, which accounts for 60% of total sales.
+-	Europe and Asia Pacific had the highest sales per region with total sales of $2,728,601 and $2,533,843 respectively.
+-	Africa had the lowest sales per region with a total sale of $652,922.
+-	Technology products have the highest sales in all regions except LATAM, where Furniture has the highest sales.	
+-	The months of March and April consistently showed higher sales across all three categories throughout the years.
+-	The Consumer segment consistently generated the highest sales across all three years, followed by the corporate segment, and then the home Office segment.
+-	Most orders have medium priority, which accounts for 58% of total sales.
+-	The most used shipping mode is Standard Class, which accounts for 60% of total sales.
 
 ## Recommendations
-##### 1. Focus on Europe and Asia Pacific: 
+##### - Focus on Europe and Asia Pacific: 
 Since these regions have the highest sales, it would be beneficial to allocate more resources and marketing efforts towards these areas. Identify the factors contributing to the high sales in these regions and leverage them to further increase market penetration and sales.
 ##### 2. Explore opportunities in Africa: 
 While Africa has the lowest sales currently, it represents an untapped market with potential for growth. Conduct market research to understand the reasons behind the low sales and identify strategies to overcome challenges. Consider adapting products or services to meet the specific needs and preferences of the African market.
