@@ -15,7 +15,7 @@ This analysis aims to examine sales patterns and customer segments in various re
 -	Which shipping mode is mostly used and what percentage of total sales does it account for?
 
 ## Tools Used
-https://camo.githubusercontent.com/890904a688ecd46a273f0a19c32721ccd49d6e9fab9f3900369e95e17f2f24e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f457863656c2d3231373334363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d657863656c266c6f676f436f6c6f723d7768697465
+Microsoft Excel
 
 ## Dashboard
 ![Screenshot 2023-07-07 114058](https://github.com/Kadiis/Sales-Analysis/assets/106782819/c3a44f2b-67f4-41c7-b32b-2ff1f80683f1)
