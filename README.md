@@ -28,7 +28,7 @@ This analysis aims to examine sales patterns and customer segments in various re
 -	The most used shipping mode is Standard Class, which accounts for 60% of total sales.
 
 ## Recommendations
-##### - Focus on Europe and Asia Pacific: 
+#####  Focus on Europe and Asia Pacific: 
 Since these regions have the highest sales, it would be beneficial to allocate more resources and marketing efforts towards these areas. Identify the factors contributing to the high sales in these regions and leverage them to further increase market penetration and sales.
 ##### 2. Explore opportunities in Africa: 
 While Africa has the lowest sales currently, it represents an untapped market with potential for growth. Conduct market research to understand the reasons behind the low sales and identify strategies to overcome challenges. Consider adapting products or services to meet the specific needs and preferences of the African market.
