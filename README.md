@@ -18,7 +18,7 @@ This analysis aims to examine sales patterns and customer segments in various re
 Microsoft Excel
 
 ## Analysis
-''' ruby
+```ruby
 # In[1]:
 import os
 import pandas as pd
@@ -148,7 +148,8 @@ total_sales = combined_data['Sales'].sum()
 shipping_mode_sales_percent = (shipping_mode_total_sales / total_sales) * 100
 print("\nSales percentage for each shipping mode:")
 print(shipping_mode_sales_percent)
-'''
+```
+
 
 ## Dashboard
 ![Screenshot 2023-07-07 114058](https://github.com/Kadiis/Sales-Analysis/assets/106782819/c3a44f2b-67f4-41c7-b32b-2ff1f80683f1)
