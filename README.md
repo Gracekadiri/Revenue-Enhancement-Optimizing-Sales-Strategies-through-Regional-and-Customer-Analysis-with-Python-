@@ -15,7 +15,7 @@ This analysis aims to examine sales patterns and customer segments in various re
 -	Which shipping mode is mostly used and what percentage of total sales does it account for?
 
 ## Tools Used
-Microsoft Excel
+Microsoft Excel, Jupyter Notebook, Python
 
 ## Analysis
 ```ruby
