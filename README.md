@@ -25,7 +25,7 @@ Microsoft Excel
 -	Europe and Asia Pacific had the highest sales per region with total sales of $2,728,601 and $2,533,843 respectively.
 -	Africa had the lowest sales per region with a total sale of $652,922.
 -	Technology products have the highest sales in all regions except LATAM, where Furniture has the highest sales.	
--	The months of March and April consistently showed higher sales across all three categories throughout the years.
+-	The month of November consistently showed higher sales across all three categories, while February consistently displayed lower sales across all three categories throughout the years.
 -	The Consumer segment consistently generated the highest sales across all three years, followed by the corporate segment, and then the home Office segment.
 -	Most orders have medium priority, which accounts for 58% of total sales.
 -	The most used shipping mode is Standard Class, which accounts for 60% of total sales.
@@ -38,7 +38,7 @@ While Africa has the lowest sales currently, it represents an untapped market wi
 ##### 3. Tailor product offerings: 
 Recognize the difference in sales trends between LATAM and other regions. In LATAM, furniture has the highest sales while technology products dominate in other regions. Adjust the product offerings in each region to align with customer preferences and market demands. This may involve diversifying the product range or customizing existing products to cater to specific regional needs.
 ##### 4.Leverage high sales months: 
-March and April consistently show higher sales across all categories. Capitalize on this trend by launching new marketing campaigns, offering promotions, or introducing new product lines during these months. Allocate resources strategically to maximize sales during this period.
+November consistently show higher sales across all categories. Capitalize on this trend by launching new marketing campaigns, offering promotions, or introducing new product lines during these months. Allocate resources strategically to maximize sales during this period.
 ##### 5.	Prioritize the Consumer segment: 
 The Consumer segment consistently generates the highest sales. Allocate resources and marketing efforts to further strengthen relationships with consumers, identify their needs and preferences, and continuously innovate to meet their demands. Develop loyalty programs and personalized marketing strategies to enhance customer retention and increase sales.
 ##### 6.	Optimize order fulfillment: 
