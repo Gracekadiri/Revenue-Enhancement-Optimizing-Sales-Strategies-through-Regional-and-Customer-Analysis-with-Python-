@@ -1,11 +1,9 @@
 # Sales-Analysis
 ## Introduction
- In this analysis, we will examine sales data from various regions to gain insights into the performance of different product categories, identify areas with growth potential, and develop targeted sales approaches. By analyzing the regions with the highest and lowest sales, as well as the preferences of different customer segments, businesses can make informed decisions to improve their market position, expand their customer base, and maximize sales opportunities.
+ In this analysis, I examined sales data from various regions to gain insights into the performance of different product categories, identify areas with growth potential, and develop targeted sales approaches. By analyzing the regions with the highest and lowest sales, as well as the preferences of different customer segments, businesses can make informed decisions to improve their market position, expand their customer base, and maximize sales opportunities.
 
-## Aim
-This analysis aims to examine sales patterns and customer segments in various regions to gain insights into the performance of different product categories, identify areas of growth potential, and optimize sales strategies. By understanding the regions with the highest and lowest sales, as well as the preferences of different customer segments, businesses can make informed decisions to improve their market position, expand their customer base, and maximize sales opportunities.
 
-## Ask
+## Guiding Questions
 -	Which regions have the highest sales?
 -	Which regions have the lowest sales?
 -	Which product category had the highest sales across all regions?
@@ -152,7 +150,8 @@ print(shipping_mode_sales_percent)
 
 
 ## Dashboard
-![Screenshot 2023-07-07 114058](https://github.com/Kadiis/Sales-Analysis/assets/106782819/c3a44f2b-67f4-41c7-b32b-2ff1f80683f1)
+![Screenshot 2023-07-07 114058](https://github.com/Kadiis/Sales-Analysis/assets/106782819/1b22cc2d-6a5e-46c2-844b-6126b6b390e4)
+
 
 
 ## Findings
