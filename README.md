@@ -1,4 +1,4 @@
-# Sales-Analysis
+# Optimizing Sales Strategies through Regional Analysis and Customer Segmentation
 ## Introduction
  In this analysis, I examined sales data from various regions to gain insights into the performance of different product categories, identify areas with growth potential, and develop targeted sales approaches. By analyzing the regions with the highest and lowest sales, as well as the preferences of different customer segments, businesses can make informed decisions to improve their market position, expand their customer base, and maximize sales opportunities.
 
