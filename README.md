@@ -150,6 +150,8 @@ print(shipping_mode_sales_percent)
 
 
 ## Dashboard
+### link to dashboard
+https://1drv.ms/x/s!Ah_OiE5H4-WSgRsK5v2_fT5K07Pz?e=MBWftD
 ![Screenshot 2023-07-07 114058](https://github.com/Kadiis/Sales-Analysis/assets/106782819/1b22cc2d-6a5e-46c2-844b-6126b6b390e4)
 
 
